@@ -1,7 +1,8 @@
 # 📊 Análise de Cancelamento de Clientes (Churn)
 
-Projeto de análise exploratória de dados utilizando Python para investigar padrões de cancelamento de clientes em uma empresa de telecom.
+![Top 10 motivos de cancelamento](assets/grafico_top10_motivos.png)
 
+Projeto de análise de cancelamento de clientes com foco em retenção e impacto financeiro.
 ---
 
 ## 🎯 Contexto do Problema
